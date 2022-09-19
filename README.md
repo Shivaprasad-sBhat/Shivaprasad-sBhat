@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bhatshivaprasad98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g4XKjPekqgia2Z1Y5mKmovC2RbN5i-pg/view?usp=sharing](https://drive.google.com/file/d/1g4XKjPekqgia2Z1Y5mKmovC2RbN5i-pg/view?usp=sharing)
+- 📄 Find my resume at [https://drive.google.com/file/d/1g4XKjPekqgia2Z1Y5mKmovC2RbN5i-pg/view?usp=sharing](https://drive.google.com/file/d/1g4XKjPekqgia2Z1Y5mKmovC2RbN5i-pg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
