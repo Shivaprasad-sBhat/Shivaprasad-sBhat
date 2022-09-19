@@ -80,7 +80,7 @@
 <p align="left"> 
 
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="Image/aws.png" alt="aws" width="40" height="40"/> 
+<img src="Image/aws.jpg" alt="aws" width="40" height="40"/> 
 </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
  <img src="GIT##" alt="Git" width="40" height="40"/>
