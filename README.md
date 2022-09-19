@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivaprasad Bhat</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
-- 🌱 I’m currently learning **Java backend developement**
 
 - 👨‍💻 All of my projects are available at [https://shivaprasad-sbhat.github.io/](https://shivaprasad-sbhat.github.io/)
 
@@ -9,7 +8,9 @@
 
 - 📫 How to reach me **bhatshivaprasad98@gmail.com**
 
-- 📄 Find my resume at [https://drive.google.com/file/d/1g4XKjPekqgia2Z1Y5mKmovC2RbN5i-pg/view?usp=sharing](https://drive.google.com/file/d/1g4XKjPekqgia2Z1Y5mKmovC2RbN5i-pg/view?usp=sharing)
+- 📄 Find my resume at [Shivaprasad Bhat Resume](https://drive.google.com/file/d/1g4XKjPekqgia2Z1Y5mKmovC2RbN5i-pg/view?usp=sharing)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
