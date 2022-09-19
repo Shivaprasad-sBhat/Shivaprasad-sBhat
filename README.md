@@ -51,7 +51,7 @@
 </p> --> -->
 
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height =55px width = 55px> , I'm Jagatjit Barik</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height =55px width = 55px> , I'm Shivaprasad Bhat</h1>
 <p align='center'> </h1>
 
 <img src="/gitprof_img/prof_img.gif" height = 300px />
