@@ -51,7 +51,7 @@
 </p> --> -->
 
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height =55px width = 55px> , I'm Shivaprasad Bhat</h1>
+<h1 align="center">Hi<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height =55px width = 55px>, I'm Shivaprasad Bhat</h1>
 <p align='center'> </h1>
 
 <img src="/gitprof_img/prof_img.gif" height = 300px />
@@ -59,12 +59,8 @@
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Java+Back-end+developer." /></a>
 </p>
-<!-- img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" -->
-<div align="center" size='20px'>
- <h3>
- A passionate Back-end developer with a specialization in JAVA backend development. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
- </h3>
-</div>
+
+
 
 <h3 align="center" text-decoration="none"><a href="https://jagatjit15.github.io/" target="_blank" rel="noopener noreferrer" >
     Visit my website
