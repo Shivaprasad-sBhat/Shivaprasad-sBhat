@@ -52,7 +52,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Shivaprasad Bhat</h1>
-<p align='center'> </h1>
+<p align='center'> </h1><br>
+
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
 
@@ -64,24 +65,41 @@
 
 - 📄 Find my resume at [Shivaprasad Bhat Resume](https://drive.google.com/file/d/1g4XKjPekqgia2Z1Y5mKmovC2RbN5i-pg/view?usp=sharing)
 
-<h3 align="center" text-decoration="none"><a href="https://jagatjit15.github.io/" target="_blank" rel="noopener noreferrer" >
-    Visit my website
-</a></h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivaprasad-bhat/" target="_blank"><img align="center" src="Linkedin##" alt="https://www.linkedin.com/in/shivaprasad-bhat/" height="30" width="40" /></a>
+</p>
 
-<!-- - 🎯 Front-end and Back-end Developer-->
+<!-- - Tech stacks-->
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+<img src="AWS##" alt="aws" width="40" height="40"/> 
+</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+ <img src="GIT##" alt="Git" width="40" height="40"/>
+ </a>
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+ <img src="JAvA##" alt="java" width="40" height="40"> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="JavaScript##" alt="javascript" width="40" height="40"/>
+ </a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+ <img src="MYSQL##" alt="mysql" width="40" height="40"/> 
+ </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+  <img src="Spring##" alt="spring" width="40" height="40"/> 
+  </a> 
+
+
+</p>
 
 
 
-<div align="center">
-<h2 > Skills & Frameworks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height =25px width = 25px> </h2>
-<a href= "https://github.com/jagatjit15?tab=repositories&q=&type=&language=javascript&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
-<a href= "https://github.com/jagatjit15?tab=repositories&q=&type=&language=html&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= "https://github.com/jagatjit15?tab=repositories&q=&type=&language=css&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= "https://github.com/jagatjit15/Array-operations-in-java "> <img height="32px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= "https://github.com/jagatjit15?tab=repositories&q=&type=&language=css&sort= "> <img height="35px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<img src="gitprof_img/MySQL-logo.png" width = 50px />
-<img src="gitprof_img/SpringBoot.png" width = 50px />
-<img src="gitprof_img/sass.png" width = 50px />
+
 
   
   
