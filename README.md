@@ -70,9 +70,12 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivaprasad-bhat/" target="_blank"><img align="center" src="Linkedin##" alt="https://www.linkedin.com/in/shivaprasad-bhat/" height="30" width="40" /></a>
 </p>
 
-<!-- - Tech stacks-->
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+
+<div align="center">
+<!-- - Tech stacks-->
 <p align="left"> 
 
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -96,10 +99,6 @@
 
 
 </p>
-
-
-
-
 
   
   
