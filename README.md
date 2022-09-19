@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivaprasad Bhat</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaprasad-sbhat&label=Profile%20views&color=0e75b6&style=flat" alt="shivaprasad-sbhat" /> </p>
-
 - 🌱 I’m currently learning **Java backend developement**
 
 - 👨‍💻 All of my projects are available at [https://shivaprasad-sbhat.github.io/](https://shivaprasad-sbhat.github.io/)
@@ -24,4 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaprasad-sbhat&show_icons=true&locale=en&layout=compact" alt="shivaprasad-sbhat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaprasad-sbhat&" alt="shivaprasad-sbhat" /></p>
-
