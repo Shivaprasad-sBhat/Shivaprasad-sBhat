@@ -76,6 +76,7 @@
 
 <div align="center">
 <!-- - Tech stacks-->
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -104,13 +105,13 @@
   
  <img align="center" src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only" /> 
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jagatjit15&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasad-sbhat&show_icons=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jagatjit15)
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jagatjit15)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivaprasad-sbhat)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)
 <img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagatjit15&layout=compact&theme=vue&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
 
 
  </div>
