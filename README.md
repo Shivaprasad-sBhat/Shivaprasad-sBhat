@@ -52,7 +52,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shivaprasad Bhat</h1>
-<p align='center'> </h1><br>
+<p align='center'> </h1>
 
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
@@ -115,6 +115,3 @@
 
 
  </div>
-
-
-<h2> Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
