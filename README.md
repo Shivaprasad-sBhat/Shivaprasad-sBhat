@@ -21,7 +21,7 @@
 <p align="left"> 
 
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="AWS##" alt="aws" width="40" height="40"/> 
+<img src="AW" alt="aws" width="40" height="40"/> 
 </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
  <img src="GIT##" alt="Git" width="40" height="40"/>
@@ -80,7 +80,7 @@
 <p align="left"> 
 
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="AWS##" alt="aws" width="40" height="40"/> 
+<img src="Image/aws.png" alt="aws" width="40" height="40"/> 
 </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
  <img src="GIT##" alt="Git" width="40" height="40"/>
@@ -101,15 +101,13 @@
 
 </p>
 
-  
-  
- <img align="center" src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only" /> 
+
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasad-sbhat&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivaprasad-sbhat)
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)
-<img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
 
