@@ -10,9 +10,9 @@
 
 -  How to reach me **bhatshivaprasad98@gmail.com**
 
--  All of my projects are available at [Shivaprasad Bhat Portfolio](https://shivaprasad-sbhat.github.io/)
+-  All of my projects are available at [My Portfolio](https://shivaprasad-sbhat.github.io/)
 
--  Find my resume at [Shivaprasad Bhat Resume](https://drive.google.com/file/d/1g4XKjPekqgia2Z1Y5mKmovC2RbN5i-pg/view?usp=sharing)
+-  Find my resume at [My Resume](https://drive.google.com/file/d/1g4XKjPekqgia2Z1Y5mKmovC2RbN5i-pg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
