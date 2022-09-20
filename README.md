@@ -4,12 +4,13 @@
 
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
-
--  All of my projects are available at [Shivaprasad Bhat Portfolio](https://shivaprasad-sbhat.github.io/)
+-  I’m currently learning Full-stack Web Development from Masai School Bangalore.
 
 -  Ask me about **Tech, because that's what excites me**
 
 -  How to reach me **bhatshivaprasad98@gmail.com**
+
+-  All of my projects are available at [Shivaprasad Bhat Portfolio](https://shivaprasad-sbhat.github.io/)
 
 -  Find my resume at [Shivaprasad Bhat Resume](https://drive.google.com/file/d/1g4XKjPekqgia2Z1Y5mKmovC2RbN5i-pg/view?usp=sharing)
 
