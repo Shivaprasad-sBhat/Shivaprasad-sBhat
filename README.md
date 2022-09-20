@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shivaprasad-bhat/" target="_blank"><img align="center" src="Linkedin##" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivaprasad-bhat/" target="_blank"> <img align="center" src="https://s.yimg.com/fz/api/res/1.2/6.1sJqIySlxah724K1v9xA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEyMDtxPTgwO3c9MTIw/https://s.yimg.com/zb/imgv1/051c505f-dc29-3303-81b2-5828c6e3b2e2/t_500x300" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 
