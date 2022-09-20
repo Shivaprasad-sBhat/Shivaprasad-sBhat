@@ -23,10 +23,10 @@
 
 
 
-<div align="center">
+<div> <!--align="center" --> 
 <!-- - Tech stacks-->
 <h3 align="left">Languages and Tools:</h3>
-<p >  <!--align="left" --> 
+<p align="left"> 
 <!--
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
 <img src="Image/aws.jpg" alt="AWS" width="40" height="40"/> 
