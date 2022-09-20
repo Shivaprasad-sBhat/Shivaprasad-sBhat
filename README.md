@@ -27,7 +27,7 @@
 <!-- - Tech stacks-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
+<!--
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
 <img src="Image/aws.jpg" alt="AWS" width="40" height="40"/> 
 </a> 
@@ -45,9 +45,9 @@
  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
   <img src="Spring##" alt="Spring" width="40" height="40"/> 
-  </a> 
+  </a> -->
 
-
+Java | Spring | MySQL | Hibernate | AWS | JavaScript | HTML | CSS | Git
 </p>
 
 
