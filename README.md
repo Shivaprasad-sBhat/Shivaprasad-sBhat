@@ -21,7 +21,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=Shivaprasad-sBhat)
+
 
 <div> <!--align="center" --> 
 <!-- - Tech stacks-->
