@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivaprasad Bhat</h1>
 <p align='center'> </h1>
-<h3>About Me</h3></br>
+<h3>About Me</h3>
 <h4 align="center">Aspiring full-stack developer with specialization in Java Backend Development. Self-motivated and curious, would like to be associated with a progressive organization that would foster creative skills and helps to grow along with the company.</h4>
 </br>
 
