@@ -3,6 +3,7 @@
 <p align='center'> </h1>
 
 <h3 align="center">A Passionate Java Backend Developer with hands-on experience in designing and developing projects. Adept at learning, unlearning, and relearning.</h3>
+</br>
 
 -  I’m currently learning Full-stack Web Development from Masai School Bangalore.
 
