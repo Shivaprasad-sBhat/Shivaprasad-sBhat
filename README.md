@@ -3,7 +3,7 @@
 <p align='center'> </h1>
 <h3>About Me :</h3>
 <h4 align="left">Aspiring full-stack developer with specialization in Java Backend Development. Self-motivated and curious, would like to be associated with a progressive organization that would foster creative skills and helps to grow along with the company.</h4>
-</br>
+
 
 -  I’m currently learning Full-stack Web Development from Masai School Bangalore.
 
