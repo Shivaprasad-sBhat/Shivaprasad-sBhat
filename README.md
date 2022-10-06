@@ -65,4 +65,4 @@
  </div>
 
 <!--![Visitor Count](https://profile-counter.glitch.me/{Shivaprasad-sBhat}/count.svg)-->
-
+![Profile views](https://gpvc.arturio.dev/[Shivaprasad-sBhat])
