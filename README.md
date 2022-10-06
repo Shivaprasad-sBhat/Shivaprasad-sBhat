@@ -65,3 +65,4 @@
  </div>
 
 <!--![Visitor Count](https://profile-counter.glitch.me/{Shivaprasad-sBhat}/count.svg)-->
+![image title](https://rushter.com/counter.svg)
