@@ -56,7 +56,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasad-sbhat&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivaprasad-sbhat)
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)
+ <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)-->
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
