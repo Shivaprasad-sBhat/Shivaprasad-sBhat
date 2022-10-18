@@ -48,12 +48,12 @@
   <img src="Spring##" alt="Spring" width="40" height="40"/> 
   </a> -->
 
-**Java | Spring | MySQL | Hibernate | AWS | JavaScript | HTML | CSS | Git**
+**Java | Spring Boot | MySQL | Hibernate | AWS | JavaScript | HTML | CSS | Git**
 </p>
 
 
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasad-sbhat&show_icons=true)
+ <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasad-sbhat&show_icons=true)-->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivaprasad-sbhat)
  <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)-->
