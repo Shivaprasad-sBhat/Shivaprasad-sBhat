@@ -48,8 +48,7 @@
   <img src="Spring##" alt="Spring" width="40" height="40"/> 
   </a> -->
 
-**Java | Spring Boot | MySQL | Hibernate | AWS | JavaScript | HTML | CSS | Git**
-</p>
+<h4 align="left">Java | Spring Boot | MySQL | Hibernate | AWS | JavaScript | HTML | CSS | Git</h4>
 
 
   
