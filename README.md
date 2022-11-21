@@ -35,12 +35,12 @@
 
   
  <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasad-sbhat&show_icons=true)-->
-<div> 
+ 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivaprasad-sbhat)
  <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)-->
-</div>
 
-<img margin="0" padding="0" width="570px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
+
+<img margin-left="-20" padding="0" width="570px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
 
 
  <!-- </div> -->
