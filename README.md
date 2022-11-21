@@ -8,7 +8,7 @@
 
 -  Ask me about **Tech, because that's what excites me**
 
--  How to reach me **bhatshivaprasad98@gmail.com**
+-  How to reach me bhatshivaprasad98@gmail.com
 
 -  All of my projects are available at [My Portfolio](https://shivaprasad-sbhat.github.io/)
 
