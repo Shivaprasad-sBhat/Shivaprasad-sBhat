@@ -28,25 +28,7 @@
 <!-- - Tech stacks-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<!--
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="Image/aws.jpg" alt="AWS" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
- <img src="GIT##" alt="Git" width="40" height="40"/>
- </a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
- <img src="JAvA##" alt="Java" width="40" height="40"> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="JavaScript##" alt="Javascript" width="40" height="40"/>
- </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
- <img src="MYSQL##" alt="MySQL" width="40" height="40"/> 
- </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-  <img src="Spring##" alt="Spring" width="40" height="40"/> 
-  </a> -->
+
 
 <h4 align="left">Java | Spring Boot | MySQL | Hibernate | AWS | JavaScript | HTML | CSS | Git</h4>
 
@@ -58,7 +40,7 @@
  <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)-->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
+<img align="center" width="100px" height="60px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
 
 
  </div>
