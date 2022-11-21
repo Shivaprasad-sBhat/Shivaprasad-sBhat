@@ -24,8 +24,8 @@
 <h4 >Java | Spring Boot | MySQL | Hibernate | AWS | JavaScript | HTML | CSS | Git</h4>
 
 
-   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasad-sbhat&show_icons=true)
+   <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasad-sbhat&show_icons=true) -->
  <h3>My GitHub Stats:</h3>
  <p align="center" >
 
