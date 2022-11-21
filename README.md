@@ -32,12 +32,13 @@
 
 <h4 >Java | Spring Boot | MySQL | Hibernate | AWS | JavaScript | HTML | CSS | Git</h4>
 
-
-  
- <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasad-sbhat&show_icons=true)-->
+<br>
+   <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)-->
+   <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasad-sbhat&show_icons=true)-->
+ <h3>My GitHub Stats:</h3>
  <p align="center" >
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivaprasad-sbhat) -->
- <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)-->
+
+
 <img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaprasad-sbhat" />
 
 <img  width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
