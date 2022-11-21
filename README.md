@@ -24,7 +24,7 @@
 
 
 
-<div> <!--align="center" --> 
+ <!--<div>align="center" --> 
 <!-- - Tech stacks-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -43,7 +43,7 @@
 <img align="left" margin="0" padding="0" width="570px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
 
 
- </div>
+ <!-- </div> -->
 
 <!--![Visitor Count](https://profile-counter.glitch.me/{Shivaprasad-sBhat}/count.svg)-->
 
