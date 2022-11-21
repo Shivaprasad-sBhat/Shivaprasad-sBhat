@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Shivaprasad Bhat</h1>
-<p align='center'> </h1>
 <h3>About Me :</h3>
 <h4 align="left">Aspiring full-stack developer with specialization in Java Backend Development. Self-motivated and curious, would like to be associated with a progressive organization that would foster creative skills and helps to grow along with the company.</h4>
 
@@ -15,8 +14,8 @@
 
 -  Find my resume at [My Resume](https://github.com/Shivaprasad-sBhat/Shivaprasad-sBhat/files/9626810/Shivaprasad_Bhat_Resume.1.pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+
 <a href="https://linkedin.com/in/shivaprasad-bhat/" target="_blank"> <img align="center" src="https://s.yimg.com/fz/api/res/1.2/6.1sJqIySlxah724K1v9xA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEyMDtxPTgwO3c9MTIw/https://s.yimg.com/zb/imgv1/051c505f-dc29-3303-81b2-5828c6e3b2e2/t_500x300" alt="LinkedIn" height="40" width="40" /></a>
 </p>
 
@@ -24,13 +23,12 @@
 
 
 
- <!--<div>align="center" --> 
-<!-- - Tech stacks-->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
+<h3>Languages and Tools:</h3>
 
 
-<h4 align="left">Java | Spring Boot | MySQL | Hibernate | AWS | JavaScript | HTML | CSS | Git</h4>
+
+<h4 >Java | Spring Boot | MySQL | Hibernate | AWS | JavaScript | HTML | CSS | Git</h4>
 
 
   
@@ -40,7 +38,7 @@
  <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)-->
 
 
-<img align="left" margin="0" padding="0" width="570px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
+<img margin="0" padding="0" width="570px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
 
 
  <!-- </div> -->
