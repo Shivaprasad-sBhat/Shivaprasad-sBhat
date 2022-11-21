@@ -15,7 +15,7 @@
 -  Find my resume at [My Resume](https://github.com/Shivaprasad-sBhat/Shivaprasad-sBhat/files/9626810/Shivaprasad_Bhat_Resume.1.pdf)
 
 <h3>Connect with me:</h3>
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/shivaprasad-bhat/" target="_blank"> <img  src="https://s.yimg.com/fz/api/res/1.2/6.1sJqIySlxah724K1v9xA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEyMDtxPTgwO3c9MTIw/https://s.yimg.com/zb/imgv1/051c505f-dc29-3303-81b2-5828c6e3b2e2/t_500x300" alt="LinkedIn" height="40" width="40" /></a>
 
 <a href="https://linkedin.com/in/shivaprasad-bhat/" target="_blank"> <img  src="https://s.yimg.com/fz/api/res/1.2/6.1sJqIySlxah724K1v9xA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEyMDtxPTgwO3c9MTIw/https://s.yimg.com/zb/imgv1/051c505f-dc29-3303-81b2-5828c6e3b2e2/t_500x300" alt="LinkedIn" height="40" width="40" /></a>
@@ -36,11 +36,11 @@
   
  <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasad-sbhat&show_icons=true)-->
  <p align="center" >
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivaprasad-sbhat)
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivaprasad-sbhat) -->
  <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)-->
+<img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaprasad-sbhat" />
 
-
-<img  width="570px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
+<img  width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
 </p>
 
 
