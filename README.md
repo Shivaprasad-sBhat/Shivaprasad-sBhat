@@ -40,7 +40,7 @@
  <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)-->
 
 
-<img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
+<img align="left" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
 
 
  </div>
