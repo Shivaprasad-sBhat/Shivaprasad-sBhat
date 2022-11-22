@@ -4,9 +4,7 @@
 <h4 align="left">Aspiring full-stack developer with specialization in Java Backend Development. Self-motivated and curious, would like to be associated with a progressive organization that would foster creative skills and helps to grow along with the company.</h4>
 
 
--  I’m currently learning Full-stack Web Development from Masai School Bangalore.
-
--  Ask me about **Tech, because that's what excites me**
+-  I’m currently learning Java Backend Development from Masai School Bangalore.
 
 -  How to reach me **bhatshivaprasad98@gmail.com**
 
