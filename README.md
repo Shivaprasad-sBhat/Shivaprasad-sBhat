@@ -30,7 +30,7 @@
  <p align="center" >
 
 
-<img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?username=shivaprasad-sbhat" />
+<img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaprasad-sbhat" />
 
 <img  width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad-sbhat&layout=compact&theme=vue&hide_border=true" />
 </p>
