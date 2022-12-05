@@ -13,7 +13,7 @@
 -  Find my resume at [My Resume](https://github.com/Shivaprasad-sBhat/Shivaprasad-sBhat/files/9626810/Shivaprasad_Bhat_Resume.1.pdf)
 
 <h3>Connect with me:</h3>
-<p>
+
 
  <a href="https://shivaprasad-sbhat.github.io/" target="_blank"> <img  src="https://github.com/Shivaprasad-sBhat/Shivaprasad-sBhat.github.io/blob/main/images/logo-portfolio.png" alt="Portfolio" height="40" width="40" /></a>
 
@@ -21,7 +21,6 @@
 
 <a href="https://shivaprasad-sbhat.github.io/" target="_blank" > <img  src="https://github.com/Shivaprasad-sBhat/Shivaprasad-sBhat.github.io/blob/main/images/gmail-logo.jpg" alt="Gmail" height="40" width="40" /></a>
 
-</p>
 
 <h3>Languages and Tools:</h3>
 
