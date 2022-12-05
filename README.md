@@ -16,10 +16,10 @@
 
 <a href="https://linkedin.com/in/shivaprasad-bhat/" target="_blank"> <img  src="https://s.yimg.com/fz/api/res/1.2/6.1sJqIySlxah724K1v9xA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEyMDtxPTgwO3c9MTIw/https://s.yimg.com/zb/imgv1/051c505f-dc29-3303-81b2-5828c6e3b2e2/t_500x300" alt="LinkedIn" height="40" width="40" /></a>
 
-
+<a href="https://shivaprasad-sbhat.github.io/" target="_blank"> <img  src="https://github.com/Shivaprasad-sBhat/Shivaprasad-sBhat.github.io/blob/main/images/logo-portfolio.png" alt="LinkedIn" height="40" width="40" /></a>
 <h3>Languages and Tools:</h3>
 
-<h4 >Java | Spring Boot | MySQL | Hibernate | AWS | JavaScript | HTML | CSS | Git</h4>
+<h4 >Java | Spring Boot | MySQL | Hibernate | JavaScript | HTML | CSS | Git</h4>
 
 
    <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)
