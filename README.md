@@ -10,7 +10,7 @@
 
 -  All of my projects are available at [My Portfolio](https://shivaprasad-sbhat.github.io/)
 
--  Find my resume at [My Resume](https://github.com/Shivaprasad-sBhat/Shivaprasad-sBhat/files/9626810/Shivaprasad_Bhat_Resume.1.pdf)
+-  Find my resume at [My Resume](https://github.com/Shivaprasad-sBhat/Shivaprasad-sBhat.github.io/blob/main/images/Shivaprasad_Bhat_Resume.pdf)
 
 <h3>Connect with me:</h3>
  <p  >
