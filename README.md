@@ -26,7 +26,7 @@
 
 
    <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivaprasad-sbhat)
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasad-sbhat&show_icons=true) -->
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasad-sbhat&show_icons=true)  -->
  <h3>My GitHub Stats:</h3>
  <p align="center" >
 
